@@ -50,27 +50,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## 🎮 How to Play
 
-*   **Player 1 Controls:** ⌨️
-    *   Up: `W` key
-    *   Down: `S` key
-    *   *(Adjust keys if different)*
-*   **Player 2 Controls:** ⌨️
-    *   Up: `Up Arrow` key
-    *   Down: `Down Arrow` key
-    *   *(Adjust keys if different)*
+*   **Player Controls:** ⌨️
+    *   Up: `K` key
+    *   Down: `J` key
 *   **Objective:** Score points by making the ball pass your opponent's paddle. The first player to reach [Your Winning Score] points wins. 🏆
-*   **Pause:** [Specify pause key if any] ⏸️
-*   **Restart:** [Specify restart key if any] 🔄
 
 ## 🛠️ Built With
 
 *   [Raylib](https://www.raylib.com/) - The game development library used
 *   C / C++ - Core language
-
-## 📄 License
-
-*(Optional: Specify a license if you have one, e.g., MIT License. If not, you can remove this section or state that it's unlicensed).*
-
-## 🙏 Acknowledgments
-
-*(Optional: Mention any tutorials followed, assets used, or people who helped).*
