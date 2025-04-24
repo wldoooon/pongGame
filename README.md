@@ -7,9 +7,8 @@ A simple implementation of the classic Pong game built using the Raylib library.
 
 ## ✨ Features
 
-*   Classic two-player Pong gameplay
+*   Classic two-player Pong gameplay (Player Vs Ai)
 *   Score tracking
-*   [Add any other features, e.g., Simple AI opponent, Ball speed increase, Sound effects]
 
 ## 🚀 Getting Started
 
@@ -28,7 +27,6 @@ These instructions will get you a copy of the project up and running on your loc
     cd pongGame
     ```
 2.  **Compile the code:**
-    *(Provide the specific command(s) needed to compile your project. This depends heavily on your setup. Here are some examples - replace with your actual command)*
 
     *Example using GCC/MinGW (if raylib is installed system-wide or in a known path):*
     ```bash
@@ -46,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
     ```bash
     .\pong_game.exe
     ```
-    *(Adjust the executable name if it's different)*
+
 
 ## 🎮 How to Play
 
