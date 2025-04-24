@@ -2,7 +2,7 @@
 
 A simple implementation of the classic Pong game built using the Raylib library.
 
-[Watch Gameplay Video Preview](background/game_preview.mp4)
+[Watch Gameplay Video Preview](background/perview.mkv)
 
 
 ## ✨ Features
