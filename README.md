@@ -2,8 +2,7 @@
 
 A simple implementation of the classic Pong game built using the Raylib library.
 
-![Gameplay Screenshot](<# Add path to a screenshot or GIF if you have one, e.g., docs/screenshot.png #>)
-*(Optional: Add a screenshot or GIF of your game here. You might need to create a `docs` folder or similar to store images).*
+[Watch Gameplay Video Preview](background/game_preview.mp4)
 
 ## Features
 
