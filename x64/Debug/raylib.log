@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(164,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(164,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(165,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(165,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(182,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(210,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(210,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(230,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(255,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(255,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(256,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(256,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(257,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer aspire\source\repos\raylib\raylib\main.cpp(257,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  raylib.vcxproj -> C:\Users\Acer aspire\source\repos\raylib\x64\Debug\raylib.exe
