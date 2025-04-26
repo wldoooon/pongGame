@@ -2,15 +2,15 @@
 
 A simple implementation of the classic Pong game built using the Raylib library.
 
-[Watch Gameplay Video Preview](gif/gameplay.gif)
+![Watch Gameplay Video Preview](gif/gameplay.gif)
 
 
-## ✨ Features
+##  Features
 
 *   Classic two-player Pong gameplay (Player Vs Ai)
 *   Score tracking
 
-## 🚀 Getting Started
+##  Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
