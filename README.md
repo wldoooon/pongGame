@@ -1,4 +1,4 @@
-# Pong Game with Raylib 🏓
+# Pong Game with Raylib 
 
 A simple implementation of the classic Pong game built using the Raylib library.
 
@@ -46,14 +46,13 @@ These instructions will get you a copy of the project up and running on your loc
     ```
 
 
-## 🎮 How to Play
+##  How to Play
 
 *   **Player Controls:** ⌨️
     *   Up: `K` key
     *   Down: `J` key
 *   **Objective:** Score points by making the ball pass your opponent's paddle. The first player to reach [Your Winning Score] points wins. 🏆
 
-## 🛠️ Built With
 
 *   [Raylib](https://www.raylib.com/) - The game development library used
 *   C / C++ - Core language
